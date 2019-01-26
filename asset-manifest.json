@@ -1,0 +1,13 @@
+{
+  "main.css": "/task-list-app/static/css/main.e8ae8ce3.chunk.css",
+  "main.js": "/task-list-app/static/js/main.a1d96276.chunk.js",
+  "main.js.map": "/task-list-app/static/js/main.a1d96276.chunk.js.map",
+  "static/js/1.d1407d30.chunk.js": "/task-list-app/static/js/1.d1407d30.chunk.js",
+  "static/js/1.d1407d30.chunk.js.map": "/task-list-app/static/js/1.d1407d30.chunk.js.map",
+  "runtime~main.js": "/task-list-app/static/js/runtime~main.35e058ed.js",
+  "runtime~main.js.map": "/task-list-app/static/js/runtime~main.35e058ed.js.map",
+  "static/css/main.e8ae8ce3.chunk.css.map": "/task-list-app/static/css/main.e8ae8ce3.chunk.css.map",
+  "index.html": "/task-list-app/index.html",
+  "precache-manifest.b197c7ce1caa5948d80fb6aec398f04a.js": "/task-list-app/precache-manifest.b197c7ce1caa5948d80fb6aec398f04a.js",
+  "service-worker.js": "/task-list-app/service-worker.js"
+}
