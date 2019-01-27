@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/task-list-app/static/js/runtime~main.35e058ed.js"
   },
   {
-    "revision": "a1d962763ac5300b5d20",
-    "url": "/task-list-app/static/js/main.a1d96276.chunk.js"
+    "revision": "553331b559620c03443d",
+    "url": "/task-list-app/static/js/main.553331b5.chunk.js"
   },
   {
     "revision": "d1407d3014fdcd8b857f",
     "url": "/task-list-app/static/js/1.d1407d30.chunk.js"
   },
   {
-    "revision": "a1d962763ac5300b5d20",
-    "url": "/task-list-app/static/css/main.e8ae8ce3.chunk.css"
+    "revision": "553331b559620c03443d",
+    "url": "/task-list-app/static/css/main.2de1af1f.chunk.css"
   },
   {
-    "revision": "7fdcd84e0a1448619b289c932c75366d",
+    "revision": "8b4701d990a4fd4637463b12bf8093b6",
     "url": "/task-list-app/index.html"
   }
 ];
